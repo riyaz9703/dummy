@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 echo "from developer2"
 
+=======
+echo "from developer 1"
+>>>>>>> 88e6693f8800e1bf9ab9b30ea88bc73faabec24a
